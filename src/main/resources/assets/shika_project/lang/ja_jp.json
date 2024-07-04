@@ -1,0 +1,19 @@
+{
+  "item.shika_project.tofu": "豆腐",
+  "item.shika_project.shikasenbei_moto": "鹿せんべいの素",
+  "item.shika_project.shikasenbei": "鹿せんべい",
+  "block.shika_project.senbei_block": "せんべいブロック",
+  "block.shika_project.compact_senbei_block": "圧縮せんべいブロック",
+  "item.shika_project.shika_pickaxe": "せんべいのツルハシ",
+  "item.shika_project.antler": "鹿のツノ",
+  "item.shika_project.shika_sword": "せんべいの剣",
+  "item.shika_project.shika_shovel": "せんべいのシャベル",
+  "item.shika_project.shika_axe": "せんべいの斧",
+  "item.shika_project.shika_hoe": "せんべいのクワ",
+  "advancements.root.title": "Project Shika",
+  "advancements.root.description": "鹿せんべいを手に入れた",
+  "advancements.second.title": "鹿せんべい職人",
+  "advancements.second.description": "せんべいブロックを手に入れた",
+  "advancements.third.title": "このブロック・・何か変・・・",
+  "advancements.third.description": "圧縮せんべいブロックを手に入れた"
+}

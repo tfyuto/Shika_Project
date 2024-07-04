@@ -1,0 +1,10 @@
+{
+  "group": "shika_project:shikasenbei_moto",
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "shika_project:shikasenbei_moto"
+  },
+  "result": "shika_project:shikasenbei",
+  "experience": 0.35,
+  "cookingtime": 120
+}

@@ -1,0 +1,19 @@
+{
+  "item.shika_project.tofu": "Tofu",
+  "item.shika_project.shikasenbei_moto": "soybean flour made from parched rice crackers",
+  "item.shika_project.shikasenbei": "Shikasenbei",
+  "block.shika_project.senbei_block": "Senbei_Block",
+  "block.shika_project.compact_senbei_block": "Compact_Senbei_Block",
+  "item.shika_project.shika_pickaxe": "Shika_Pickaxe",
+  "item.shika_project.antler": "Antler",
+  "item.shika_project.shika_sword": "Shika_Sword",
+  "item.shika_project.shika_shovel": "shika_Shovel",
+  "item.shika_project.shika_axe": "shika_Axe",
+  "item.shika_project.shika_hoe": "shika_Hoe",
+  "advancements.root.title": "Get Shikasenbei !!",
+  "advancements.root.description": "Shika senbei\" are special rice crackers made for feeding deer in Nara Park, Japan. These crackers are specifically formulated to be safe and nutritious for the deer. They are made from a mixture of rice bran and flour, without any additives or seasonings, ensuring that they are healthy for the animals. Visitors to Nara Park can purchase shika senbei from vendors in the park and enjoy the unique experience of feeding the friendly and often bowing deer",
+  "advancements.second.title": "Rice Cracker Worker",
+  "advancements.second.description": "Get rice cracker blocks",
+  "advancements.third.title": "Hard Rice Cracker Worker",
+  "advancements.third.description": "Get Compressed rice cracker blocks"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "shika_project:block/senbei_block"
+    }
+  }
+}

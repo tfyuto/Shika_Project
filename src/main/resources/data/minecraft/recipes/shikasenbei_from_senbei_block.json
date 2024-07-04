@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shikasenbei",
+  "ingredients": [
+    {
+      "item": "shika_project:senbei_block"
+    }
+  ],
+  "result": {
+    "item": "shika_project:shikasenbei",
+    "count": 9
+  }
+}
