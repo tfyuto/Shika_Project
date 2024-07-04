@@ -1,6 +1,6 @@
 鹿プロジェクト（Shika Project）
 概要
-アニメ「[鹿の子のここしたん](https://www.anime-shikanoko.jp/)」にインスパイアされたMinecraft MODです。このMODは、アニメにインスパイアされた機能や要素を追加することで、あなたのMinecraft体験を向上させるように設計されています。
+アニメ「[鹿の子のここしたん](https://www.anime-shikanoko.jp)」にインスパイアされたMinecraft MODです。このMODは、アニメにインスパイアされた機能や要素を追加することで、あなたのMinecraft体験を向上させるように設計されています。
 
 機能
 鹿 (Coming Soon)： ゲームに鹿を追加し、Minecraftの世界に野生動物の新しいレベルをもたらします。(注意: 鹿はまだ追加されていません)
@@ -25,7 +25,7 @@ Minecraftバージョン
 詳細についてはGitHubに記載されています。
 
 寄付
-奈良の鹿に寄付をお願いします：寄付ページ
+奈良の鹿に寄付をお願いします：寄付ページ https://naradeer.com/donate
 
 連絡先
 お問い合わせは [tfyutoc90f7[at]gmail.com] までお願いします。
@@ -35,8 +35,8 @@ Minecraftバージョン
 ## About
 This is a Minecraft mod inspired by the anime "Shika no Kono no Koko Shitantan". The mod is designed to enhance your Minecraft experience by adding features and elements inspired by the anime.
 
-- **[Anime's Official Link](https://www.anime-shikanoko.jp/)**
-- **[Donate to Deer in Nara](https://naradeer.com/donate/)**
+- **[Anime's Official Link](https://www.anime-shikanoko.jp)**
+- **[Donate to Deer in Nara](https://naradeer.com/donate)**
 
 ## Minecraft Version
 This mod is compatible with Minecraft version 1.17.1.
